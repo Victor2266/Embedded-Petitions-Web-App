@@ -11,7 +11,7 @@ The spreadsheet could be populated by anything.
 An example usecase is using a SquareSpace form to collect signatures and embedding the webapp as a petition progress tracker.
 
 
-![image](https://user-images.githubusercontent.com/46388269/169556189-2aba8d34-f921-4ec2-9a17-e15bbf020c48.png)
+![169556189-2aba8d34-f921-4ec2-9a17-e15bbf020c48](https://user-images.githubusercontent.com/46388269/169562051-55a09926-6802-4b2d-a267-965beaaec5f0.png)
 
 It works with SquareSpace's built in form:
 
